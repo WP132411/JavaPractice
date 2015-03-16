@@ -8,6 +8,8 @@ package org.dimigo.basic;
  * @version 1.0
  */
 
+//코드수정 코드수정!!!!!!!
+
 public class PrimitiveDataType {
 
 	public static void main(String[] args) {
