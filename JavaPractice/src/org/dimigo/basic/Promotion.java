@@ -1,5 +1,12 @@
 package org.dimigo.basic;
 
+/**
+ * 디미베네 연간 인건비 계산하기
+ * 
+ * @author ♥
+ *
+ */
+
 public class Promotion {
 
 	public static void main(String[] args) {
