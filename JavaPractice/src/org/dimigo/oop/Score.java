@@ -14,7 +14,7 @@ public class Score {
 		int eng = scanner.nextInt();
 		
 		int i=math+kor+eng;
-		float  avg = i/3;
+		double  avg = i/3.0;
 		
 		System.out.println("<<점수 출력>>");
 		StringBuilder sb = new StringBuilder();
