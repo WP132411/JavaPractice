@@ -10,6 +10,10 @@ public class IdolGroup {
 				{"유라","혜리","소진","민아"}
 		};
 		
+		StringBuilder sb = new StringBuilder();
+		
+		
+		
 		for(int i=0; i<idolGroup.length; i++) {
 			System.out.println("<<" +  idolGroup[i] + "맴버 >>");
 			for(String value : members[i]) {
