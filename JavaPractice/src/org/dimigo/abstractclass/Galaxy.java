@@ -9,6 +9,7 @@ public  class Galaxy extends SmartPhone {
 		
 	}
 	
+	@Override
 	public void pay() {
 		System.out.println("삼성 페이로 결제합니다.");
 	}

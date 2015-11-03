@@ -8,7 +8,8 @@ public class IPhone extends SmartPhone {
 	public IPhone() {
 		
 	}
-	
+
+	@Override
 	public void pay() {
 		System.out.println("애플 페이로 결제합니다.");
 	}
